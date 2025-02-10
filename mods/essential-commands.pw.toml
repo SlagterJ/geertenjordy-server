@@ -1,0 +1,13 @@
+name = "Essential Commands"
+filename = "essential_commands-0.36.0-mc1.21.3.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6VdDUivB/versions/dWRItO8P/essential_commands-0.36.0-mc1.21.3.jar"
+hash-format = "sha512"
+hash = "2b5bde97113f319d1d55b37832e0faf54eb7a903148fb01414dbec1adaeffa8f6b6451a37276b0102af83100736349821790e62ed1672b0f58e3a04c7d85108c"
+
+[update]
+[update.modrinth]
+mod-id = "6VdDUivB"
+version = "dWRItO8P"

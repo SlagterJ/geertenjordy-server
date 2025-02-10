@@ -9,8 +9,28 @@ file = "README.md"
 hash = "265e10e29945f6bce5b44d9d8293bb1f376873a23f6ce8a202c377634bbd834a"
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "f68ced147cfb20b0bce974411e42106d84557aefb10b77e31ae8ac771954edc1"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "9fd6ac115ea51594c5dc5d8d0cc3de8332b41dc97be39565ba4ea3fb22431d69"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "13cd4e9e1d7a596072ce69a9bafd97e3f04bebc137d220ac062fe90968286453"
+metafile = true
+
+[[files]]
 file = "mods/continents.pw.toml"
 hash = "2278b701d34c6ce904d52975244f04ce584ae7d5920ca3f9ff0202eccdc6185f"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "800c1f0caad88ce8433e8a992105fdb4bee806275ecd749be10d5b6dad1a154a"
 metafile = true
 
 [[files]]
@@ -21,6 +41,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+metafile = true
+
+[[files]]
+file = "mods/gca.pw.toml"
+hash = "2db81bf585230ea5ae632991124d12b4ba4f270bace0707f5a9a0d5a3cac5c87"
 metafile = true
 
 [[files]]
@@ -59,6 +84,11 @@ hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
 metafile = true
 
 [[files]]
+file = "mods/servux.pw.toml"
+hash = "5fb7abaffa7429c3193c874b6c62e19da3606a545009352e9c3352224a975330"
+metafile = true
+
+[[files]]
 file = "mods/terralith-biome-saplings.pw.toml"
 hash = "bb08e4e96c0daf231784b08f70571580e3c8dcc61a411a05504c2dca54358ef5"
 metafile = true
@@ -66,4 +96,9 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-refresh.pw.toml"
+hash = "62ab1bc7580f945da802d05537ea70595c850dea5f9ff9d92fa0e666175bf9a9"
 metafile = true
