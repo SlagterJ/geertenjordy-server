@@ -34,6 +34,11 @@ hash = "13cd4e9e1d7a596072ce69a9bafd97e3f04bebc137d220ac062fe90968286453"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "9dda01a994cdd001d154567541faee5afaaa4c388de497fbd6b789a141476613"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "52cda66e3a272c78712f48ad3dd0af2a4d1d1f6395e77967529283fb9e213985"
 metafile = true
@@ -146,4 +151,9 @@ metafile = true
 [[files]]
 file = "mods/vanilla-refresh.pw.toml"
 hash = "62ab1bc7580f945da802d05537ea70595c850dea5f9ff9d92fa0e666175bf9a9"
+metafile = true
+
+[[files]]
+file = "mods/villager-death-messages.pw.toml"
+hash = "1ee921755bfbd00d5f23f28d3c571ac89637855ce4d688e5c713a1020a3c28bf"
 metafile = true

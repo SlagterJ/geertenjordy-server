@@ -1,0 +1,13 @@
+name = "Villager Death Messages"
+filename = "villagerdeathmessages-1.21.4-3.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9uICvZTr/versions/9U9QvzMA/villagerdeathmessages-1.21.4-3.5.jar"
+hash-format = "sha1"
+hash = "63847f3879e41d523b5f93c17c0a626d5ac8d365"
+
+[update]
+[update.modrinth]
+mod-id = "9uICvZTr"
+version = "9U9QvzMA"
