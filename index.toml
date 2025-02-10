@@ -79,6 +79,11 @@ hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "a31027e57fac41a23bd1b4d8030d8c3a9f1ad633fb58285ca945f83fe13c3c4b"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "f4070441d1f1bdeb3e6a594b5ba1c3f314b8f13815a67619cb38621c0f6a1fec"
 metafile = true
