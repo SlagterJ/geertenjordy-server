@@ -1,0 +1,19 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "ed0a643f89496e3b48e93159de98ddb62ff4a9e8c951987fb0381ad47aaa1742"
+
+[[files]]
+file = "README.md"
+hash = "265e10e29945f6bce5b44d9d8293bb1f376873a23f6ce8a202c377634bbd834a"
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "65177e2687bb181a7f5d974c284cd7aa0dcfe1b1761b81b1ce759c7480884af5"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
+metafile = true
