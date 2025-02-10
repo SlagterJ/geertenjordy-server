@@ -9,6 +9,11 @@ file = "README.md"
 hash = "265e10e29945f6bce5b44d9d8293bb1f376873a23f6ce8a202c377634bbd834a"
 
 [[files]]
+file = "mods/brewery.pw.toml"
+hash = "8f79fdc887ed3a18bcae690fdac7ba07c2b20f34a0204aac53dfdd0c3d5b87d4"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "f68ced147cfb20b0bce974411e42106d84557aefb10b77e31ae8ac771954edc1"
 metafile = true
