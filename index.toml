@@ -54,6 +54,11 @@ hash = "65177e2687bb181a7f5d974c284cd7aa0dcfe1b1761b81b1ce759c7480884af5"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "98dd654d4a179825ed13cf12913aeee257b56c0986a8aa352b42749656bc47a7"
+metafile = true
+
+[[files]]
 file = "mods/fabricproxy-lite.pw.toml"
 hash = "32ac3f88a059313563d2303ae77a5fc31c3e4c2256f2f678f21e54fb9b46eec8"
 metafile = true
@@ -106,6 +111,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "23f4322551960ed5fa21fae987c1a8c4ba5b154ad4cca697dae79b64749869ff"
+metafile = true
+
+[[files]]
+file = "mods/our-villager-discounts.pw.toml"
+hash = "b800c7369e7246bafb3ba26239953bed42446997a3a1a8e0b1c70d804743fcc1"
 metafile = true
 
 [[files]]
