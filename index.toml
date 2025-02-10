@@ -49,6 +49,11 @@ hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
+file = "mods/g4mespeed.pw.toml"
+hash = "8661614b10ee33d1b02b54c22e4d4aac962f50abbbb2f1d611c8fcfb9d4087fa"
+metafile = true
+
+[[files]]
 file = "mods/gca.pw.toml"
 hash = "2db81bf585230ea5ae632991124d12b4ba4f270bace0707f5a9a0d5a3cac5c87"
 metafile = true

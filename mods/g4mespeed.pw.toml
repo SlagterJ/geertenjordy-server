@@ -1,0 +1,13 @@
+name = "G4mespeed"
+filename = "g4mespeed-1.4.9-mc1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gW29KsnL/versions/Bm5LDXmq/g4mespeed-1.4.9-mc1.21.4.jar"
+hash-format = "sha512"
+hash = "7d77f20eb3f19eba0d2b40dc7e5419bde3f6188db10f6f971e54f67e0365758ad9a1bf928c656aefd502d81a5267a176aac74d5eb5043e740e8acbda18bb7ad1"
+
+[update]
+[update.modrinth]
+mod-id = "gW29KsnL"
+version = "Bm5LDXmq"
