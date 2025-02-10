@@ -9,6 +9,11 @@ file = "README.md"
 hash = "265e10e29945f6bce5b44d9d8293bb1f376873a23f6ce8a202c377634bbd834a"
 
 [[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "a3ea07b2cf0ca4069cac00d405228f5d2f4a9794ee82238bca8612b6f55b6c03"
+metafile = true
+
+[[files]]
 file = "mods/brewery.pw.toml"
 hash = "8f79fdc887ed3a18bcae690fdac7ba07c2b20f34a0204aac53dfdd0c3d5b87d4"
 metafile = true
@@ -31,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/continents.pw.toml"
 hash = "2278b701d34c6ce904d52975244f04ce584ae7d5920ca3f9ff0202eccdc6185f"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "52cda66e3a272c78712f48ad3dd0af2a4d1d1f6395e77967529283fb9e213985"
 metafile = true
 
 [[files]]
@@ -99,6 +109,16 @@ hash = "5fb7abaffa7429c3193c874b6c62e19da3606a545009352e9c3352224a975330"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat-radio.pw.toml"
+hash = "ea6f16f7cb86fbc4c34d743a0b664af6bf4b75682706871104b2087eaf4cf728"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
+metafile = true
+
+[[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "6a7e9f35395998004ae6b6da6e944c920ca13421ea5b9c9d789923f9e9c1b8b7"
 metafile = true
@@ -116,4 +136,9 @@ metafile = true
 [[files]]
 file = "mods/vanilla-refresh.pw.toml"
 hash = "62ab1bc7580f945da802d05537ea70595c850dea5f9ff9d92fa0e666175bf9a9"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "ebd3a3662ac209ec89e11492634debacb9de226a06a1c38bea23975e2d6bd270"
 metafile = true
