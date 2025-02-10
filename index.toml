@@ -99,6 +99,11 @@ hash = "5fb7abaffa7429c3193c874b6c62e19da3606a545009352e9c3352224a975330"
 metafile = true
 
 [[files]]
+file = "mods/syncmatica.pw.toml"
+hash = "6a7e9f35395998004ae6b6da6e944c920ca13421ea5b9c9d789923f9e9c1b8b7"
+metafile = true
+
+[[files]]
 file = "mods/terralith-biome-saplings.pw.toml"
 hash = "bb08e4e96c0daf231784b08f70571580e3c8dcc61a411a05504c2dca54358ef5"
 metafile = true
