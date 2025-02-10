@@ -137,8 +137,3 @@ metafile = true
 file = "mods/vanilla-refresh.pw.toml"
 hash = "62ab1bc7580f945da802d05537ea70595c850dea5f9ff9d92fa0e666175bf9a9"
 metafile = true
-
-[[files]]
-file = "mods/voice-chat-interaction.pw.toml"
-hash = "ebd3a3662ac209ec89e11492634debacb9de226a06a1c38bea23975e2d6bd270"
-metafile = true
