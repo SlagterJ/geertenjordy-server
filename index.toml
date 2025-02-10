@@ -34,11 +34,6 @@ hash = "13cd4e9e1d7a596072ce69a9bafd97e3f04bebc137d220ac062fe90968286453"
 metafile = true
 
 [[files]]
-file = "mods/continents.pw.toml"
-hash = "2278b701d34c6ce904d52975244f04ce584ae7d5920ca3f9ff0202eccdc6185f"
-metafile = true
-
-[[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "52cda66e3a272c78712f48ad3dd0af2a4d1d1f6395e77967529283fb9e213985"
 metafile = true
