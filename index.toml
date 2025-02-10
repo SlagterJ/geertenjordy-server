@@ -9,6 +9,18 @@ file = "README.md"
 hash = "265e10e29945f6bce5b44d9d8293bb1f376873a23f6ce8a202c377634bbd834a"
 
 [[files]]
+file = "config/styled-chat.json"
+hash = "f815327947a88f2b3bf1f7d3e4f2e3ca23a50dd7392869b91619e28170968650"
+
+[[files]]
+file = "config/styledplayerlist/config.json"
+hash = "a50d1c340c6e42433e725fe7a3b97e9920bc493b47ca618ecad4998bb6af16e8"
+
+[[files]]
+file = "config/styledplayerlist/styles/default.json"
+hash = "15e61b4bf908d5fd331523c4c1097caf12cdf1300b6c0185587da5bf78743de0"
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "a3ea07b2cf0ca4069cac00d405228f5d2f4a9794ee82238bca8612b6f55b6c03"
 metafile = true
@@ -60,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricproxy-lite.pw.toml"
-hash = "32ac3f88a059313563d2303ae77a5fc31c3e4c2256f2f678f21e54fb9b46eec8"
+hash = "21a9b349fd73558a8c7a49748cb4e9d0a561905bbef7b0e5d9b6466a93c62345"
 metafile = true
 
 [[files]]
@@ -141,6 +153,16 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "9829bdb076041126da5756da048d67e67124fe95b15e3d717c2677f0df224a00"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.pw.toml"
+hash = "54104f640beb4f19f09483f890852dc8662e2dd92315991b4fddf2a8d316aa35"
 metafile = true
 
 [[files]]
