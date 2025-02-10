@@ -157,3 +157,8 @@ metafile = true
 file = "mods/villager-death-messages.pw.toml"
 hash = "1ee921755bfbd00d5f23f28d3c571ac89637855ce4d688e5c713a1020a3c28bf"
 metafile = true
+
+[[files]]
+file = "resourcepacks/sparkles.pw.toml"
+hash = "de5bb411fa5cf6ee2a4f95bf8ed41a5668d1a80caba0208e82c79817fae8170d"
+metafile = true
