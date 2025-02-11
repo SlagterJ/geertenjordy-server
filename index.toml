@@ -9,6 +9,10 @@ file = "README.md"
 hash = "265e10e29945f6bce5b44d9d8293bb1f376873a23f6ce8a202c377634bbd834a"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "147cd37f5c735c29eceb01b3bf671a9759e6ef900080d92669858b4a563638eb"
+
+[[files]]
 file = "config/styled-chat.json"
 hash = "f815327947a88f2b3bf1f7d3e4f2e3ca23a50dd7392869b91619e28170968650"
 
@@ -23,6 +27,11 @@ hash = "15e61b4bf908d5fd331523c4c1097caf12cdf1300b6c0185587da5bf78743de0"
 [[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "a3ea07b2cf0ca4069cac00d405228f5d2f4a9794ee82238bca8612b6f55b6c03"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "27fb4e6443fd9fdedccb1d02d20f51f1272b26f29533acc12c3bd839fcb61364"
 metafile = true
 
 [[files]]
@@ -72,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricproxy-lite.pw.toml"
-hash = "21a9b349fd73558a8c7a49748cb4e9d0a561905bbef7b0e5d9b6466a93c62345"
+hash = "32ac3f88a059313563d2303ae77a5fc31c3e4c2256f2f678f21e54fb9b46eec8"
 metafile = true
 
 [[files]]
