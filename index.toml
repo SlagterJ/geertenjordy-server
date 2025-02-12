@@ -60,6 +60,11 @@ hash = "9dda01a994cdd001d154567541faee5afaaa4c388de497fbd6b789a141476613"
 metafile = true
 
 [[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "a77df794876f707fdd8b89b1ba299193eb61cf4fa63470031c0a9d45c327de38"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "52cda66e3a272c78712f48ad3dd0af2a4d1d1f6395e77967529283fb9e213985"
 metafile = true
