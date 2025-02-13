@@ -9,8 +9,32 @@ file = "README.md"
 hash = "265e10e29945f6bce5b44d9d8293bb1f376873a23f6ce8a202c377634bbd834a"
 
 [[files]]
+file = "config/FabricProxy-Lite.toml"
+hash = "11bd22b61772a677a7cee3274e1efd02c3d9d9c7bfdc40f5625a5333c6603bbb"
+
+[[files]]
 file = "config/bluemap/core.conf"
 hash = "147cd37f5c735c29eceb01b3bf671a9759e6ef900080d92669858b4a563638eb"
+
+[[files]]
+file = "config/bluemap/maps/world.conf"
+hash = "1fcf217a14a6d239cb1bf31e6743c355346e1b0970a07e08bc02235521d45cfc"
+
+[[files]]
+file = "config/bluemap/maps/world_the_end.conf"
+hash = "3fa0487934965c53711d022c20ba2903c1eb92ee8ceb53d60a4b745ce31f0419"
+
+[[files]]
+file = "config/bluemap/maps/world_the_nether.conf"
+hash = "63f0086be44d166e179db8aa4efbce82c140a4ba9724d66dc923a90d348cdf03"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "0f60a21b89f9cd541ae940c0fd458217d4a2cbf421464ee49fe0cb5e05ff9afa"
+
+[[files]]
+file = "config/discord-mc-chat.json"
+hash = "3595df1d684de1627e9172f183c9590c88d8b4f8ff5a1950d042d000382ed4c7"
 
 [[files]]
 file = "config/styled-chat.json"
@@ -147,6 +171,11 @@ metafile = true
 [[files]]
 file = "mods/peek.pw.toml"
 hash = "c3f5e79e17c59e58b3708d28a93310c81ae4b3ee72590e74c26b6c8ae3999399"
+metafile = true
+
+[[files]]
+file = "mods/postgresql-driver.pw.toml"
+hash = "07a6890195f5299ee6904cc59b3449682574ef0de1ddadec5c7c5e8f6cf748c4"
 metafile = true
 
 [[files]]
