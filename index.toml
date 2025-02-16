@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "ed0a643f89496e3b48e93159de98ddb62ff4a9e8c951987fb0381ad47aaa1742"
-
-[[files]]
-file = "README.md"
-hash = "265e10e29945f6bce5b44d9d8293bb1f376873a23f6ce8a202c377634bbd834a"
-
-[[files]]
 file = "config/FabricProxy-Lite.toml"
 hash = "11bd22b61772a677a7cee3274e1efd02c3d9d9c7bfdc40f5625a5333c6603bbb"
 
@@ -50,7 +42,15 @@ hash = "a50d1c340c6e42433e725fe7a3b97e9920bc493b47ca618ecad4998bb6af16e8"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "15e61b4bf908d5fd331523c4c1097caf12cdf1300b6c0185587da5bf78743de0"
+hash = "1b207211d2c49d6860820c079866d8849d1c22dbfd53935e0c94fdf5dc58d731"
+
+[[files]]
+file = "logo.png"
+hash = "5cb63a453d1b80a62340b78fb88a99a54313de170b690f063e212dad8aa13624"
+
+[[files]]
+file = "logo.webp"
+hash = "4a1f0dd58410b48d4492ce82273c543c754e2c9a4dd263a66b03465dd3105932"
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
@@ -248,6 +248,7 @@ hash = "63e8c501198f6dcdc18df57de1df21cacce35e6ffb4766d06670a2b2ccff9fb5"
 metafile = true
 
 [[files]]
+<<<<<<< HEAD
 file = "secrets.sh.example"
 hash = "a5a79667f2463b4b74ab53434ec91b50a6f4eaf41ebe68f4c3a5836d7ea550da"
 
@@ -258,3 +259,7 @@ hash = "a2a9bba5726c49c9891d1bfea930518b18263ba47b901d8d4a482e119a6e595b"
 [[files]]
 file = "update-and-start.sh"
 hash = "14945e3c66ac9d77b7b6c46b48bc77fc9c238394fa68fc9b8d54c66b950e9586"
+
+[[files]]
+file = "server-icon.png"
+hash = "fd327d646e22ac0bfe9a8a702fe0c66630af9a8426dd255ccc37db63e16c3d1a"

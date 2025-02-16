@@ -12,8 +12,6 @@
     "",
     "<gray>Ping: <gold>%player:ping%</gold>",
     "<gray>TPS: %server:tps_colored% <dark_gray>|</dark_gray> <gray>MSPT: %server:mspt_colored%",
-    "",
-    "<dark_gray>uitstelgedrag.work</dark_gray>",
     ""
   ],
   "hidden_in_commands": false
