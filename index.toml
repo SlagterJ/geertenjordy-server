@@ -41,6 +41,14 @@ file = "config/styledplayerlist/styles/default.json"
 hash = "1b207211d2c49d6860820c079866d8849d1c22dbfd53935e0c94fdf5dc58d731"
 
 [[files]]
+file = "logo.png"
+hash = "5cb63a453d1b80a62340b78fb88a99a54313de170b690f063e212dad8aa13624"
+
+[[files]]
+file = "logo.webp"
+hash = "4a1f0dd58410b48d4492ce82273c543c754e2c9a4dd263a66b03465dd3105932"
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "a3ea07b2cf0ca4069cac00d405228f5d2f4a9794ee82238bca8612b6f55b6c03"
 metafile = true
@@ -229,3 +237,7 @@ metafile = true
 file = "resourcepacks/sparkles.pw.toml"
 hash = "63e8c501198f6dcdc18df57de1df21cacce35e6ffb4766d06670a2b2ccff9fb5"
 metafile = true
+
+[[files]]
+file = "server-icon.png"
+hash = "fd327d646e22ac0bfe9a8a702fe0c66630af9a8426dd255ccc37db63e16c3d1a"
