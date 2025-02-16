@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "ed0a643f89496e3b48e93159de98ddb62ff4a9e8c951987fb0381ad47aaa1742"
-
-[[files]]
-file = "README.md"
-hash = "265e10e29945f6bce5b44d9d8293bb1f376873a23f6ce8a202c377634bbd834a"
-
-[[files]]
 file = "config/FabricProxy-Lite.toml"
 hash = "11bd22b61772a677a7cee3274e1efd02c3d9d9c7bfdc40f5625a5333c6603bbb"
 
@@ -46,7 +38,7 @@ hash = "a50d1c340c6e42433e725fe7a3b97e9920bc493b47ca618ecad4998bb6af16e8"
 
 [[files]]
 file = "config/styledplayerlist/styles/default.json"
-hash = "15e61b4bf908d5fd331523c4c1097caf12cdf1300b6c0185587da5bf78743de0"
+hash = "1b207211d2c49d6860820c079866d8849d1c22dbfd53935e0c94fdf5dc58d731"
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
