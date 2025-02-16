@@ -248,9 +248,12 @@ hash = "63e8c501198f6dcdc18df57de1df21cacce35e6ffb4766d06670a2b2ccff9fb5"
 metafile = true
 
 [[files]]
-<<<<<<< HEAD
 file = "secrets.sh.example"
 hash = "a5a79667f2463b4b74ab53434ec91b50a6f4eaf41ebe68f4c3a5836d7ea550da"
+
+[[files]]
+file = "server-icon.png"
+hash = "fd327d646e22ac0bfe9a8a702fe0c66630af9a8426dd255ccc37db63e16c3d1a"
 
 [[files]]
 file = "server.properties"
@@ -259,7 +262,3 @@ hash = "a2a9bba5726c49c9891d1bfea930518b18263ba47b901d8d4a482e119a6e595b"
 [[files]]
 file = "update-and-start.sh"
 hash = "14945e3c66ac9d77b7b6c46b48bc77fc9c238394fa68fc9b8d54c66b950e9586"
-
-[[files]]
-file = "server-icon.png"
-hash = "fd327d646e22ac0bfe9a8a702fe0c66630af9a8426dd255ccc37db63e16c3d1a"
