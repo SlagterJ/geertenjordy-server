@@ -188,6 +188,11 @@ hash = "5fb7abaffa7429c3193c874b6c62e19da3606a545009352e9c3352224a975330"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "e27fe109700a01799ec17f0f8ca473394a7de5cf3b527bcc8fd35bf2e62d77a9"
+metafile = true
+
+[[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
 metafile = true
