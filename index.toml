@@ -53,11 +53,6 @@ file = "logo.webp"
 hash = "4a1f0dd58410b48d4492ce82273c543c754e2c9a4dd263a66b03465dd3105932"
 
 [[files]]
-file = "mods/audioplayer.pw.toml"
-hash = "a3ea07b2cf0ca4069cac00d405228f5d2f4a9794ee82238bca8612b6f55b6c03"
-metafile = true
-
-[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "27fb4e6443fd9fdedccb1d02d20f51f1272b26f29533acc12c3bd839fcb61364"
 metafile = true
@@ -90,11 +85,6 @@ metafile = true
 [[files]]
 file = "mods/discord-mc-chat.pw.toml"
 hash = "a77df794876f707fdd8b89b1ba299193eb61cf4fa63470031c0a9d45c327de38"
-metafile = true
-
-[[files]]
-file = "mods/enhanced-groups.pw.toml"
-hash = "52cda66e3a272c78712f48ad3dd0af2a4d1d1f6395e77967529283fb9e213985"
 metafile = true
 
 [[files]]
@@ -190,16 +180,6 @@ metafile = true
 [[files]]
 file = "mods/servux.pw.toml"
 hash = "5fb7abaffa7429c3193c874b6c62e19da3606a545009352e9c3352224a975330"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat-radio.pw.toml"
-hash = "ea6f16f7cb86fbc4c34d743a0b664af6bf4b75682706871104b2087eaf4cf728"
-metafile = true
-
-[[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
 metafile = true
 
 [[files]]
