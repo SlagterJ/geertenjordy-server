@@ -69,20 +69,32 @@ process_file() {
     echo "Processing $file"
     tmp_file=$(mktemp) || { echo "Failed to create temporary file"; exit 1; }
 
-    sed -E -e ':a' -e 's/\$([A-Za-z_][A-Za-z0-9_]*)/\${\1}/g;ta' "$file" | \
-    gawk '
-    {
-        line = $0
-        while (match(line, /\$\{([A-Za-z_][A-Za-z0-9_]*)\}/, arr)) {
-            varname = arr[1]
-            if (varname in ENVIRON) {
-                line = substr(line, 1, RSTART - 1) ENVIRON[varname] substr(line, RSTART + RLENGTH)
-            } else {
-                break  # Prevent infinite loop if variable is not found
-            }
+    gawk -f - "$file" > "$tmp_file" << 'AWK_EOF'
+{
+    line = $0
+    output = ""
+    pos = 1
+    # Match only unbraced variables: $ followed immediately by a letter or underscore.
+    while (match(substr(line, pos), /\$[A-Za-z_][A-Za-z0-9_]*/)) {
+        rstart = pos + RSTART - 1
+        # Append text before the match.
+        output = output substr(line, pos, RSTART - 1)
+        # Extract the variable name (skip the $).
+        var = substr(line, rstart+1, RLENGTH-1)
+        if (var in ENVIRON) {
+            # Replace with the environment variable's value.
+            output = output ENVIRON[var]
+        } else {
+            # Leave unchanged if not found.
+            output = output substr(line, rstart, RLENGTH)
         }
-        print line
-    }' > "$tmp_file"
+        pos = rstart + RLENGTH
+    }
+    # Append the remainder of the line.
+    output = output substr(line, pos)
+    print output
+}
+AWK_EOF
 
     mv "$tmp_file" "$file"
 }
