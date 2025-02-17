@@ -63,6 +63,11 @@ hash = "8f79fdc887ed3a18bcae690fdac7ba07c2b20f34a0204aac53dfdd0c3d5b87d4"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "d12020275ea4a8abf89e191cefae3a766b033ab2388ff45a15703f45bef0b87c"
+metafile = true
+
+[[files]]
 file = "mods/carpet-extra.pw.toml"
 hash = "f68ced147cfb20b0bce974411e42106d84557aefb10b77e31ae8ac771954edc1"
 metafile = true
@@ -158,6 +163,11 @@ hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "97608890817d0e6a374dd81bff3ecb094fb989af5581a29cf7019717a5ed16e2"
+metafile = true
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "23f4322551960ed5fa21fae987c1a8c4ba5b154ad4cca697dae79b64749869ff"
 metafile = true
@@ -180,6 +190,11 @@ metafile = true
 [[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "fe85eb7e13d32999eb376d154be220d82134c534a3f066fa263fb4af11535232"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "79e364b2df803b645ce3741fead7a2fb493e8755219b020bb54a9963ddac3d8a"
 metafile = true
 
 [[files]]
