@@ -83,6 +83,11 @@ hash = "9dda01a994cdd001d154567541faee5afaaa4c388de497fbd6b789a141476613"
 metafile = true
 
 [[files]]
+file = "mods/convenient-mobgriefing.pw.toml"
+hash = "15be96ac514c447e7bb0c58445540dcc6086f707dc230c7fe65d16e75304de0a"
+metafile = true
+
+[[files]]
 file = "mods/discord-mc-chat.pw.toml"
 hash = "a77df794876f707fdd8b89b1ba299193eb61cf4fa63470031c0a9d45c327de38"
 metafile = true
