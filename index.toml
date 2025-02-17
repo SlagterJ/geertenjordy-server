@@ -83,6 +83,16 @@ hash = "13cd4e9e1d7a596072ce69a9bafd97e3f04bebc137d220ac062fe90968286453"
 metafile = true
 
 [[files]]
+file = "mods/chunky.pw.toml"
+hash = "01735a9d638c8fb4896c1a700eff0954aff8b854b517036bd9688e1d1754a7af"
+metafile = true
+
+[[files]]
+file = "mods/chunkyborder.pw.toml"
+hash = "420b0532f4b089a6ebf10ec26fbfed2f5b9d3bf5c3bb0e55c9cdb5ed14522e15"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "9dda01a994cdd001d154567541faee5afaaa4c388de497fbd6b789a141476613"
 metafile = true
