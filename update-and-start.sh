@@ -34,6 +34,11 @@ else
     exit 1
 fi
 
+# --- Update the script ---
+if [ -f "git-repo/update-and-start.sh" ]; then
+    cp git-repo/update-and-start.sh update-and-start.sh
+fi
+
 # --- Load secrets ---
 if [ -f "./secrets.sh" ]; then
     source ./secrets.sh
