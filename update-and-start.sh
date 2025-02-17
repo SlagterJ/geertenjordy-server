@@ -70,15 +70,18 @@ process_file() {
     tmp_file=$(mktemp) || { echo "Failed to create temporary file"; exit 1; }
 
     sed -E -e ':a' -e 's/\$([A-Za-z_][A-Za-z0-9_]*)/\${\1}/g;ta' "$file" | \
-    gawk '{
-        while (match($0, /\$\{([A-Za-z_][A-Za-z0-9_]*)\}/, arr)) {
-            if (arr[1] in ENVIRON) {
-                gsub("\\$\\{" arr[1] "\\}", ENVIRON[arr[1]])
+    gawk '
+    {
+        line = $0
+        while (match(line, /\$\{([A-Za-z_][A-Za-z0-9_]*)\}/, arr)) {
+            varname = arr[1]
+            if (varname in ENVIRON) {
+                line = substr(line, 1, RSTART - 1) ENVIRON[varname] substr(line, RSTART + RLENGTH)
             } else {
-                gsub("\\$\\{" arr[1] "\\}", "$" arr[1])
+                break  # Prevent infinite loop if variable is not found
             }
         }
-        print
+        print line
     }' > "$tmp_file"
 
     mv "$tmp_file" "$file"
