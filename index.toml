@@ -247,8 +247,8 @@ hash = "fd327d646e22ac0bfe9a8a702fe0c66630af9a8426dd255ccc37db63e16c3d1a"
 
 [[files]]
 file = "server.properties"
-hash = "a2a9bba5726c49c9891d1bfea930518b18263ba47b901d8d4a482e119a6e595b"
+hash = "a034d53e106aa04e88882db6cfb4ef911a577932b743c46f8c07722cb9129655"
 
 [[files]]
 file = "update-and-start.sh"
-hash = "14945e3c66ac9d77b7b6c46b48bc77fc9c238394fa68fc9b8d54c66b950e9586"
+hash = "45519d4de32c10feac66c59f0de4da342e59c05ba9294dc337e1dd1664023f64"
