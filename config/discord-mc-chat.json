@@ -29,7 +29,7 @@
     "msptCheckInterval": 5000,
     "msptLimit": 50,
     "whitelistRequiresAdmin": true,
-    "notifyUpdates": true,
+    "notifyUpdates": false,
     "mentionAdminsForUpdates": true,
     "updateChannelTopic": true,
     "channelTopicUpdateInterval": 600000,

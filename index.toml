@@ -30,7 +30,7 @@ hash = "a26fa552a41cbf2eee14c70c04044f8e5f786dec9512536effc53b42ab152f04"
 
 [[files]]
 file = "config/discord-mc-chat.json"
-hash = "3595df1d684de1627e9172f183c9590c88d8b4f8ff5a1950d042d000382ed4c7"
+hash = "d98fc29d76a644f76dedc461be8f7efda7cac99baa38bf19b7fc675d32c5e845"
 
 [[files]]
 file = "config/styled-chat.json"
