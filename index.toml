@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/EssentialCommands.properties"
+hash = "5d3da1fee89db68e105a874aabaa2945e8094f63b373a8b9626a4f0c5c8dabde"
+
+[[files]]
 file = "config/FabricProxy-Lite.toml"
 hash = "11bd22b61772a677a7cee3274e1efd02c3d9d9c7bfdc40f5625a5333c6603bbb"
 
@@ -272,7 +276,7 @@ hash = "fd327d646e22ac0bfe9a8a702fe0c66630af9a8426dd255ccc37db63e16c3d1a"
 
 [[files]]
 file = "server.properties"
-hash = "4b2d25ca9598737062593b6f4c574ab60fa20a5120aae37cd95a6980ac72dc66"
+hash = "25409716c812a2ca80c0b8a0bedb922ff1fc73688fab4fdaa21d504ffce6287e"
 
 [[files]]
 file = "update-and-start.sh"
