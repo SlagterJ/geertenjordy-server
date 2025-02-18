@@ -272,7 +272,7 @@ hash = "fd327d646e22ac0bfe9a8a702fe0c66630af9a8426dd255ccc37db63e16c3d1a"
 
 [[files]]
 file = "server.properties"
-hash = "a034d53e106aa04e88882db6cfb4ef911a577932b743c46f8c07722cb9129655"
+hash = "4b2d25ca9598737062593b6f4c574ab60fa20a5120aae37cd95a6980ac72dc66"
 
 [[files]]
 file = "update-and-start.sh"
