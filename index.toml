@@ -10,7 +10,7 @@ hash = "11bd22b61772a677a7cee3274e1efd02c3d9d9c7bfdc40f5625a5333c6603bbb"
 
 [[files]]
 file = "config/bluemap/core.conf"
-hash = "b08f051a52d7230dba1cfb361e85a4bc7dd0ce1369ff61ca1dc7c74f6c9b7aaa"
+hash = "688ba48551bc0a52bac69a17186ea3d5b089bb063cfa1581d80a49fd9c5545ee"
 
 [[files]]
 file = "config/bluemap/maps/world.conf"
@@ -35,10 +35,6 @@ hash = "a26fa552a41cbf2eee14c70c04044f8e5f786dec9512536effc53b42ab152f04"
 [[files]]
 file = "config/discord-mc-chat.json"
 hash = "d98fc29d76a644f76dedc461be8f7efda7cac99baa38bf19b7fc675d32c5e845"
-
-[[files]]
-file = "config/styled-chat.json"
-hash = "f815327947a88f2b3bf1f7d3e4f2e3ca23a50dd7392869b91619e28170968650"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
@@ -217,6 +213,11 @@ hash = "5fb7abaffa7429c3193c874b6c62e19da3606a545009352e9c3352224a975330"
 metafile = true
 
 [[files]]
+file = "mods/shulker-drops-two.pw.toml"
+hash = "0d4e913f7029b8adb9d72b3ba4caeb13ce1c30a5bc4d7433ef50944761c2238e"
+metafile = true
+
+[[files]]
 file = "mods/spark.pw.toml"
 hash = "e27fe109700a01799ec17f0f8ca473394a7de5cf3b527bcc8fd35bf2e62d77a9"
 metafile = true
@@ -224,11 +225,6 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
-metafile = true
-
-[[files]]
-file = "mods/styled-chat.pw.toml"
-hash = "9829bdb076041126da5756da048d67e67124fe95b15e3d717c2677f0df224a00"
 metafile = true
 
 [[files]]
