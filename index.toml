@@ -54,17 +54,17 @@ hash = "4a1f0dd58410b48d4492ce82273c543c754e2c9a4dd263a66b03465dd3105932"
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "27fb4e6443fd9fdedccb1d02d20f51f1272b26f29533acc12c3bd839fcb61364"
+hash = "84d5506d7a81b89cb1abf6e2dd4d2cb0f5eed5b4587c19c73ffc2e954989019d"
 metafile = true
 
 [[files]]
 file = "mods/brewery.pw.toml"
-hash = "8f79fdc887ed3a18bcae690fdac7ba07c2b20f34a0204aac53dfdd0c3d5b87d4"
+hash = "856d3f4134eb44d22b48bda79b73e791564dda589256fb5b9dba3825a8a3663a"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d12020275ea4a8abf89e191cefae3a766b033ab2388ff45a15703f45bef0b87c"
+hash = "f0b75ae2e4267051bff34cd2380de6072013ab1f348f63512fbb2eedce7ef99d"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "9dda01a994cdd001d154567541faee5afaaa4c388de497fbd6b789a141476613"
+hash = "4340c6660f1700e35edd16569550d42e6b7f9b18e2d0e156275327393e5390b5"
 metafile = true
 
 [[files]]
@@ -109,12 +109,12 @@ metafile = true
 
 [[files]]
 file = "mods/essential-commands.pw.toml"
-hash = "800c1f0caad88ce8433e8a992105fdb4bee806275ecd749be10d5b6dad1a154a"
+hash = "8241a00392576fe32240c87c9c631cfabd6752808772ae3a376fc263a25b6250"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "65177e2687bb181a7f5d974c284cd7aa0dcfe1b1761b81b1ce759c7480884af5"
+hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/gca.pw.toml"
-hash = "2db81bf585230ea5ae632991124d12b4ba4f270bace0707f5a9a0d5a3cac5c87"
+hash = "2639490ba935db0599b23fc5d5aab55def9645058007c22d99bed504bbee1d94"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "f4070441d1f1bdeb3e6a594b5ba1c3f314b8f13815a67619cb38621c0f6a1fec"
+hash = "97697e194c4e9742501485140b71b4104b857f27bd34446816fd55e4ec486e2c"
 metafile = true
 
 [[files]]
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/peek.pw.toml"
-hash = "c3f5e79e17c59e58b3708d28a93310c81ae4b3ee72590e74c26b6c8ae3999399"
+hash = "789dc39f8ff490f4529ad29e13c16be6458e842f41c92c359f94a5c018d85db5"
 metafile = true
 
 [[files]]
@@ -254,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/villager-death-messages.pw.toml"
-hash = "1ee921755bfbd00d5f23f28d3c571ac89637855ce4d688e5c713a1020a3c28bf"
+hash = "a2e929cbb143eae5301562662962baeca971caf2a8d956fbfc9051b3bcb832f4"
 metafile = true
 
 [[files]]

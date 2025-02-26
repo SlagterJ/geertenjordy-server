@@ -1,13 +1,13 @@
 name = "BlueMap"
-filename = "bluemap-5.5-fabric.jar"
+filename = "bluemap-5.6-fabric.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/swbUV1cr/versions/Mvle7bPy/bluemap-5.5-fabric.jar"
+url = "https://cdn.modrinth.com/data/swbUV1cr/versions/JmdVHurR/bluemap-5.6-fabric.jar"
 hash-format = "sha512"
-hash = "cecad52391159d10e16e474b7f8af95b94fd93495f69d211cfb0f3b2110fd363e1bdc6fe894f0d869e23248d4768efa9520dc22f5a3f44a30788cdfc3704ee2e"
+hash = "1216caff18d0048e03462ef699ec77495518cb8b58b169e5f510b3693237e1beb6dad459c0cabc8c657184278f80b90f39d9095ae0156e3dac5ec0170ba0ff17"
 
 [update]
 [update.modrinth]
 mod-id = "swbUV1cr"
-version = "Mvle7bPy"
+version = "JmdVHurR"
