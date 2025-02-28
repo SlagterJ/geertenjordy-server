@@ -9,6 +9,10 @@ file = "config/FabricProxy-Lite.toml"
 hash = "11bd22b61772a677a7cee3274e1efd02c3d9d9c7bfdc40f5625a5333c6603bbb"
 
 [[files]]
+file = "config/NoChatReports/NCR-Common.json"
+hash = "ede6c9f13bca917ed71c7f2d27a439f8d33876702aafbce7fe87b39e91d8d12a"
+
+[[files]]
 file = "config/bluemap/core.conf"
 hash = "688ba48551bc0a52bac69a17186ea3d5b089bb063cfa1581d80a49fd9c5545ee"
 
@@ -53,8 +57,13 @@ file = "logo.webp"
 hash = "4a1f0dd58410b48d4492ce82273c543c754e2c9a4dd263a66b03465dd3105932"
 
 [[files]]
+file = "mods/armor-poser.pw.toml"
+hash = "8744083101d64e4a0320454df28f47ac7c6e00c9da0ca81af308d94ffaa37f41"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
-hash = "84d5506d7a81b89cb1abf6e2dd4d2cb0f5eed5b4587c19c73ffc2e954989019d"
+hash = "d873c05254ab934e46abaa1f99bfe9c3848922b0a2bf16dcd6997ed8506841c5"
 metafile = true
 
 [[files]]
@@ -93,6 +102,11 @@ hash = "420b0532f4b089a6ebf10ec26fbfed2f5b9d3bf5c3bb0e55c9cdb5ed14522e15"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "4340c6660f1700e35edd16569550d42e6b7f9b18e2d0e156275327393e5390b5"
 metafile = true
@@ -104,7 +118,7 @@ metafile = true
 
 [[files]]
 file = "mods/discord-mc-chat.pw.toml"
-hash = "a77df794876f707fdd8b89b1ba299193eb61cf4fa63470031c0a9d45c327de38"
+hash = "30520e523b37370febde24c888bb6f3c201117a8d6926a2db1b628b4233820de"
 metafile = true
 
 [[files]]
@@ -124,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricproxy-lite.pw.toml"
-hash = "32ac3f88a059313563d2303ae77a5fc31c3e4c2256f2f678f21e54fb9b46eec8"
+hash = "21a9b349fd73558a8c7a49748cb4e9d0a561905bbef7b0e5d9b6466a93c62345"
 metafile = true
 
 [[files]]
@@ -150,6 +164,11 @@ metafile = true
 [[files]]
 file = "mods/itemswapper.pw.toml"
 hash = "a31027e57fac41a23bd1b4d8030d8c3a9f1ad633fb58285ca945f83fe13c3c4b"
+metafile = true
+
+[[files]]
+file = "mods/just-mob-heads.pw.toml"
+hash = "c98d835c4ed3f2bb1e2684e4d257f78996d31beac8ca9ef8bcad5a8edf8b92d4"
 metafile = true
 
 [[files]]
@@ -255,6 +274,11 @@ metafile = true
 [[files]]
 file = "mods/villager-death-messages.pw.toml"
 hash = "a2e929cbb143eae5301562662962baeca971caf2a8d956fbfc9051b3bcb832f4"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "8a5f04c3565d1e80fc5196f83582ba90726f8fc08a917a8fe78431f5dae24ea6"
 metafile = true
 
 [[files]]
