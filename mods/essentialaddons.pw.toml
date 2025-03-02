@@ -1,0 +1,13 @@
+name = "EssentialAddons"
+filename = "EssentialAddons-1.4.5+mc1.21.4.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/3WQaouc1/versions/p1GwNCFi/EssentialAddons-1.4.5%2Bmc1.21.4.jar"
+hash-format = "sha1"
+hash = "a7030537cd2b649ed5f50a8cb4078a7289a2473e"
+
+[update]
+[update.modrinth]
+mod-id = "3WQaouc1"
+version = "p1GwNCFi"

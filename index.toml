@@ -37,6 +37,10 @@ file = "config/bluemap/webserver.conf"
 hash = "a26fa552a41cbf2eee14c70c04044f8e5f786dec9512536effc53b42ab152f04"
 
 [[files]]
+file = "config/chunk-debug-server.json"
+hash = "40063cbaae781edd6d6b79524128d7b80e7feed0f9dbeb9c912a2170c9f229ec"
+
+[[files]]
 file = "config/discord-mc-chat.json"
 hash = "d98fc29d76a644f76dedc461be8f7efda7cac99baa38bf19b7fc675d32c5e845"
 
@@ -92,6 +96,11 @@ hash = "13cd4e9e1d7a596072ce69a9bafd97e3f04bebc137d220ac062fe90968286453"
 metafile = true
 
 [[files]]
+file = "mods/chunk-debug.pw.toml"
+hash = "79a51d283828cf2c60aea7762ed0100a4d8cc86cab05b67648f353b02d5a34e7"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "01735a9d638c8fb4896c1a700eff0954aff8b854b517036bd9688e1d1754a7af"
 metafile = true
@@ -124,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "8241a00392576fe32240c87c9c631cfabd6752808772ae3a376fc263a25b6250"
+metafile = true
+
+[[files]]
+file = "mods/essentialaddons.pw.toml"
+hash = "2465688392c59768e116e6bd0c2d3de076f2a2882235ed59022b4a7ee67361f8"
 metafile = true
 
 [[files]]
