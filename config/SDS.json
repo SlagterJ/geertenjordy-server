@@ -1,0 +1,16 @@
+{
+	"allowed": {
+		"blocks": [
+		],
+		"properties": {},
+		"tags": [
+		]
+	},
+	"forbidden": {
+		"blocks": [],
+		"properties": {
+		},
+		"tags": []
+	},
+	"whitelist": false
+}
