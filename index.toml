@@ -266,6 +266,11 @@ hash = "54104f640beb4f19f09483f890852dc8662e2dd92315991b4fddf2a8d316aa35"
 metafile = true
 
 [[files]]
+file = "mods/survival-debug-stick.pw.toml"
+hash = "aca44ebb4edcb5857619f2f75d3559e84d51ae324d2f98e6b5f7bc8169df7ad4"
+metafile = true
+
+[[files]]
 file = "mods/syncmatica.pw.toml"
 hash = "6a7e9f35395998004ae6b6da6e944c920ca13421ea5b9c9d789923f9e9c1b8b7"
 metafile = true
