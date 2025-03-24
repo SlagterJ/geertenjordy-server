@@ -13,7 +13,7 @@ file = "config/NoChatReports/NCR-Common.json"
 hash = "ede6c9f13bca917ed71c7f2d27a439f8d33876702aafbce7fe87b39e91d8d12a"
 
 [[files]]
-file = "config/SDS.json"
+file = "config/SDS.json.backup"
 hash = "edcbc1d8bf2e28f6fba9253dd9449ab8f56efa8b37ffd70ae1cc81b988f8b49a"
 
 [[files]]
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "f0b75ae2e4267051bff34cd2380de6072013ab1f348f63512fbb2eedce7ef99d"
+hash = "be10248b836f5c4add6d0167cea92b9203f1b45ead13f1a0416aa1d579ff582a"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "4340c6660f1700e35edd16569550d42e6b7f9b18e2d0e156275327393e5390b5"
+hash = "00b1eed865826108064040f568064871d75e678837f8c54e6107b51e056ef017"
 metafile = true
 
 [[files]]
@@ -146,12 +146,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
+hash = "ccb0ba609f9e0e951ae2570139f5ffd67bfd26cbf2e9443c7d17fd7900171672"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "98dd654d4a179825ed13cf12913aeee257b56c0986a8aa352b42749656bc47a7"
+hash = "9df60ec79ff1f4f0ab79b9e10863b831884a2ba277bf0a6be989d3db9d32373d"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/gca.pw.toml"
-hash = "2639490ba935db0599b23fc5d5aab55def9645058007c22d99bed504bbee1d94"
+hash = "580a5ec1dd7d2e0711683954a9f73d8bbeb37270f72193617362b3f6f98b1a5a"
 metafile = true
 
 [[files]]
@@ -181,7 +181,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "a31027e57fac41a23bd1b4d8030d8c3a9f1ad633fb58285ca945f83fe13c3c4b"
+hash = "ce37173583dc42afa2fcd5bb6a19ae552254bec70cb907d19bb4af976c132a6e"
 metafile = true
 
 [[files]]
@@ -191,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "97697e194c4e9742501485140b71b4104b857f27bd34446816fd55e4ec486e2c"
+hash = "a575bbba4bea7145c15d5d850bac8b2fd671ab8d92b1695961393ee97717d273"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/servux.pw.toml"
-hash = "5fb7abaffa7429c3193c874b6c62e19da3606a545009352e9c3352224a975330"
+hash = "84df291c0903ce1b6d028e15a98dd585d0f4a36ba777796df206bf022f124a02"
 metafile = true
 
 [[files]]
@@ -301,7 +301,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "8a5f04c3565d1e80fc5196f83582ba90726f8fc08a917a8fe78431f5dae24ea6"
+hash = "6460f75830dd3760ca29b7f73c0bd8712135ba6a18f8fab32382510c4ff5c4fe"
 metafile = true
 
 [[files]]
