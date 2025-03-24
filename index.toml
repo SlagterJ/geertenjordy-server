@@ -290,6 +290,11 @@ hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
 metafile = true
 
 [[files]]
+file = "mods/tree-harvester.pw.toml"
+hash = "51336c0faf12093bbd3e26f1db4451da069aed01c2d18316e5f7766d6a7ec4d0"
+metafile = true
+
+[[files]]
 file = "mods/vanilla-refresh.pw.toml"
 hash = "62ab1bc7580f945da802d05537ea70595c850dea5f9ff9d92fa0e666175bf9a9"
 metafile = true
