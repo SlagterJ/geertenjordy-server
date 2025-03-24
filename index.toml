@@ -13,8 +13,8 @@ file = "config/NoChatReports/NCR-Common.json"
 hash = "ede6c9f13bca917ed71c7f2d27a439f8d33876702aafbce7fe87b39e91d8d12a"
 
 [[files]]
-file = "config/SDS.json.backup"
-hash = "edcbc1d8bf2e28f6fba9253dd9449ab8f56efa8b37ffd70ae1cc81b988f8b49a"
+file = "config/SDS.json"
+hash = "5ac38c529c2d3d020fcb2be408fbda46d060efc53c0feb3b57981d6976fadd3c"
 
 [[files]]
 file = "config/bluemap/core.conf"

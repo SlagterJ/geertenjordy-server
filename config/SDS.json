@@ -9,6 +9,9 @@
 	"forbidden": {
 		"blocks": [],
 		"properties": {
+			"waterlogged": [
+				"all"
+			]
 		},
 		"tags": []
 	},
