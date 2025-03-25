@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["XXX", "XXX"],
+  "key": {
+    "X": "minecraft:spruce_planks"
+  },
+  "result": {
+    "id": "minecraft:spruce_trapdoor",
+    "count": 6
+  }
+}

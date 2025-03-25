@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["WXW", "WWW"],
+  "key": {
+    "W": "minecraft:mangrove_planks",
+    "X": "minecraft:chest"
+  },
+  "result": {
+    "id": "minecraft:mangrove_chest_boat",
+    "count": 1
+  }
+}
