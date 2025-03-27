@@ -57,6 +57,10 @@ file = "config/styledplayerlist/styles/default.json"
 hash = "1b207211d2c49d6860820c079866d8849d1c22dbfd53935e0c94fdf5dc58d731"
 
 [[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "acc186ef996c415c59484e0359090428a9a9d4700a598499be009079af334432"
+
+[[files]]
 file = "logo.png"
 hash = "5cb63a453d1b80a62340b78fb88a99a54313de170b690f063e212dad8aa13624"
 
@@ -67,6 +71,11 @@ hash = "4a1f0dd58410b48d4492ce82273c543c754e2c9a4dd263a66b03465dd3105932"
 [[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "8744083101d64e4a0320454df28f47ac7c6e00c9da0ca81af308d94ffaa37f41"
+metafile = true
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "49eb3b6bcba15d9ae7450719a571080cfe5cd63d6426f15931d4ae8d52346b49"
 metafile = true
 
 [[files]]
@@ -132,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/discord-mc-chat.pw.toml"
 hash = "30520e523b37370febde24c888bb6f3c201117a8d6926a2db1b628b4233820de"
+metafile = true
+
+[[files]]
+file = "mods/enhanced-groups.pw.toml"
+hash = "141a4304ba64fe7882435138e5e5e6f380ef29825ede92bcb611fa74d1ae8890"
 metafile = true
 
 [[files]]
@@ -252,6 +266,16 @@ metafile = true
 [[files]]
 file = "mods/shulker-drops-two.pw.toml"
 hash = "0d4e913f7029b8adb9d72b3ba4caeb13ce1c30a5bc4d7433ef50944761c2238e"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat-radio.pw.toml"
+hash = "1cfc047173e7b3ebfad7af74771d176a5b66f0601a61d6a360d671fa0dbae957"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "87dfe81097436c6979c21a29b5b5f3e41fa1c8f25a09b206f7c024eeab9756ef"
 metafile = true
 
 [[files]]
