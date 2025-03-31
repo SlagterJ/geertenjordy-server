@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "be10248b836f5c4add6d0167cea92b9203f1b45ead13f1a0416aa1d579ff582a"
+hash = "dd91786e6982eb0cfcf53043af373e50670a5fce2a10d807e3676ac6f21fc064"
 metafile = true
 
 [[files]]
@@ -100,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "9fd6ac115ea51594c5dc5d8d0cc3de8332b41dc97be39565ba4ea3fb22431d69"
+hash = "e28b3cdb08e4a2e06fdf4a6f1ce4bbaa631c430c0b1cd5ef7c32a744c967bec6"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "00b1eed865826108064040f568064871d75e678837f8c54e6107b51e056ef017"
+hash = "a0c4e4057fe6dbfe548a55258832ee957cdabbf68eefe9e1149e448de9764128"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/discord-mc-chat.pw.toml"
-hash = "30520e523b37370febde24c888bb6f3c201117a8d6926a2db1b628b4233820de"
+hash = "6a6f0e52ddc61fb4ac20ac8727af729883cc7ff37989d6313f0fcb1990027bfd"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/itemswapper.pw.toml"
-hash = "ce37173583dc42afa2fcd5bb6a19ae552254bec70cb907d19bb4af976c132a6e"
+hash = "2c99290099bd19fffe5935c5f299de4be5f3394c2536a2c5f76697f0ece3f49c"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/vanilla-refresh.pw.toml"
-hash = "62ab1bc7580f945da802d05537ea70595c850dea5f9ff9d92fa0e666175bf9a9"
+hash = "62cc9ab1d787138d929de86eec08cd9f6ea30bee5bfc0817e1d5bae7a46eaea9"
 metafile = true
 
 [[files]]
