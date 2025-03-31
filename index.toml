@@ -124,6 +124,11 @@ hash = "420b0532f4b089a6ebf10ec26fbfed2f5b9d3bf5c3bb0e55c9cdb5ed14522e15"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "acf8d1cbdfb2779c0919780317162796e85c4e6aa0dcc741509918fbc4efb56b"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "2fe7f730ed1e69326a938cca8db3dd4d4452b05cddb856cb50b5478b2ae79fe0"
 metafile = true
@@ -141,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/discord-mc-chat.pw.toml"
 hash = "6a6f0e52ddc61fb4ac20ac8727af729883cc7ff37989d6313f0fcb1990027bfd"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "59d1e3ec613f8c38d043cfd9cf56306ca93e88ed59bdbdcc5aef6a97d46c56a8"
 metafile = true
 
 [[files]]
