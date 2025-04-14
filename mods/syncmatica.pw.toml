@@ -1,7 +1,7 @@
 name = "syncmatica"
-filename = "syncmatica-fabric-1.21.4-0.3.13-sakura.3.jar"
+filename = "syncmatica-fabric-1.21.5-0.3.14-sakura.1.jar"
 
 [download]
-url = "https://github.com/sakura-ryoko/syncmatica/releases/download/1.21.4-0.3.13-sakura.3/syncmatica-fabric-1.21.4-0.3.13-sakura.3.jar"
+url = "https://github.com/sakura-ryoko/syncmatica/releases/download/1.21.5-0.3.14-sakura.1/syncmatica-fabric-1.21.5-0.3.14-sakura.1.jar"
 hash-format = "sha256"
-hash = "3232945c9c7b7746285026bdf2c9097d27e8a1f7b7ec00290b0b48e3a6f3f10a"
+hash = "3626d7bb24f2a803b2ed407b06567bfdac044a6d4c6182c114bb4323ccc2a35f"

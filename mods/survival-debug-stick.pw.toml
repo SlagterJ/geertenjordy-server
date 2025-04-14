@@ -1,13 +1,13 @@
 name = "Survival Debug Stick"
-filename = "survival-debug-mod-1.2.2_1.21.2.jar"
+filename = "survival-debug-mod-1.2.3_1.21.5.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/9rVMDWPD/versions/bx7alPI2/survival-debug-mod-1.2.2_1.21.2.jar"
+url = "https://cdn.modrinth.com/data/9rVMDWPD/versions/4RtFndEh/survival-debug-mod-1.2.3_1.21.5.jar"
 hash-format = "sha1"
-hash = "08f51a00e93a26c3c6216dcaf4a2789686e172c0"
+hash = "711ec692f77ca8b9bcba86d7dcd126301bbd74fd"
 
 [update]
 [update.modrinth]
 mod-id = "9rVMDWPD"
-version = "bx7alPI2"
+version = "4RtFndEh"
