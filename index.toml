@@ -9,6 +9,10 @@ file = "config/FabricProxy-Lite.toml"
 hash = "11bd22b61772a677a7cee3274e1efd02c3d9d9c7bfdc40f5625a5333c6603bbb"
 
 [[files]]
+file = "config/Geyser-Fabric/config.yml"
+hash = "bc42c431d971736311b85005c56c0bca8c9fb12d22824ae14ad1c94aaf9dc231"
+
+[[files]]
 file = "config/NoChatReports/NCR-Common.json"
 hash = "ede6c9f13bca917ed71c7f2d27a439f8d33876702aafbce7fe87b39e91d8d12a"
 
@@ -47,6 +51,10 @@ hash = "40063cbaae781edd6d6b79524128d7b80e7feed0f9dbeb9c912a2170c9f229ec"
 [[files]]
 file = "config/discord-mc-chat.json"
 hash = "d98fc29d76a644f76dedc461be8f7efda7cac99baa38bf19b7fc675d32c5e845"
+
+[[files]]
+file = "config/floodgate/config.yml"
+hash = "1c9eaa12c8d36f8b259fa9eff686f3f5a09174c4c2704c8f4d44c7e41c6e6b51"
 
 [[files]]
 file = "config/styledplayerlist/config.json"
@@ -169,8 +177,18 @@ hash = "f1da925ae791df99a453d1e135cb3c7a390c861a6ae9db299e19ffc83dfed680"
 metafile = true
 
 [[files]]
+file = "mods/floodgate.pw.toml"
+hash = "96d6e112e0ae11b4545489709467900ec476066f1d34800d829eb9296c3a84fa"
+metafile = true
+
+[[files]]
 file = "mods/gca.pw.toml"
 hash = "5b0ba1582e10579f034af7fc5d6f307e9ba3a745f80523f2d51acb6365664512"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "e11a6910764863f32583b8635c75ee09d9f825c1a1a4332025f61e4107dd697d"
 metafile = true
 
 [[files]]
