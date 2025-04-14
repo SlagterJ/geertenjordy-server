@@ -10,7 +10,7 @@ hash = "11bd22b61772a677a7cee3274e1efd02c3d9d9c7bfdc40f5625a5333c6603bbb"
 
 [[files]]
 file = "config/Geyser-Fabric/config.yml"
-hash = "bc42c431d971736311b85005c56c0bca8c9fb12d22824ae14ad1c94aaf9dc231"
+hash = "ad34a609c388b94ae04297ea3b4933043b83ff7e48e01c86ebfa6dd69edaf789"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
