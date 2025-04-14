@@ -1,0 +1,13 @@
+name = "PostgreSQL JDBC Driver"
+filename = "postgresql-driver-42.7.4-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NAD1n5gw/versions/JE6q0qLt/postgresql-driver-42.7.4-all.jar"
+hash-format = "sha1"
+hash = "17fc84710df9fb7c49655bcfb5f97040ddec84ad"
+
+[update]
+[update.modrinth]
+mod-id = "NAD1n5gw"
+version = "JE6q0qLt"

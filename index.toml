@@ -237,6 +237,11 @@ hash = "80236e2fca55f40f7109af2fe833bf6421cd2828c382abef7d0d683266192910"
 metafile = true
 
 [[files]]
+file = "mods/postgresql-driver.pw.toml"
+hash = "c3970be35a9434a1e7a85302b62afb7473c0017d019e5af3c156eb82ba20740b"
+metafile = true
+
+[[files]]
 file = "mods/remove-terralith-intro-message.pw.toml"
 hash = "e3fb99dcf245b19c4add224893b8cd342c7b3db00c0f708fef9ca368b1a2d94b"
 metafile = true
