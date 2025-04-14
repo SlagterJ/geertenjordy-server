@@ -137,6 +137,11 @@ hash = "4f82c1aafe662b0c8b422f7b102bc42876faf1c549539db005f503dc4e05f6a1"
 metafile = true
 
 [[files]]
+file = "mods/discord-mc-chat.pw.toml"
+hash = "6a6f0e52ddc61fb4ac20ac8727af729883cc7ff37989d6313f0fcb1990027bfd"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "9366e9ff9a46c5302ca2a6574ef1f7cf0e56f0fca2bd25c6f2ef147929eb3fe3"
 metafile = true
@@ -169,6 +174,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "9df60ec79ff1f4f0ab79b9e10863b831884a2ba277bf0a6be989d3db9d32373d"
+metafile = true
+
+[[files]]
+file = "mods/fabricproxy-lite.pw.toml"
+hash = "21a9b349fd73558a8c7a49748cb4e9d0a561905bbef7b0e5d9b6466a93c62345"
 metafile = true
 
 [[files]]
