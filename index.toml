@@ -77,6 +77,11 @@ file = "logo.webp"
 hash = "4a1f0dd58410b48d4492ce82273c543c754e2c9a4dd263a66b03465dd3105932"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "e475f1f0d57e5e3b7ca929fa324dfa5df49ab8fabf4c539e8ca1a52f36ddaa56"
+metafile = true
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "c443af669f5262ebc88f229d2ab39246c9e8b0a3685a561f374aeb179adf974a"
 metafile = true
