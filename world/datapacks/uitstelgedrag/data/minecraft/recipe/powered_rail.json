@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "S": "minecraft:stick",
+    "R": "minecraft:redstone",
+    "I": "minecraft:gold_ingot"
+  },
+  "pattern": ["I I", "ISI", "IRI"],
+  "result": {
+    "count": 16,
+    "id": "minecraft:powered_rail"
+  }
+}

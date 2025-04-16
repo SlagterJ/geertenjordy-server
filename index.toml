@@ -366,6 +366,10 @@ file = "world/datapacks/uitstelgedrag/data/minecraft/recipe/acacia_trapdoor.json
 hash = "6afadc74a933b4fb06e6f0cd0db046b62d7ac08f83a08b11250006d8f56bc851"
 
 [[files]]
+file = "world/datapacks/uitstelgedrag/data/minecraft/recipe/activator_rail.json"
+hash = "a1b0183985851a2fe8339cd1e2b536c5b18fa7190d671b8001677ff2bcd6376a"
+
+[[files]]
 file = "world/datapacks/uitstelgedrag/data/minecraft/recipe/bamboo_trapdoor.json"
 hash = "1dbbb9c2721bc97b93d13cc02abc92502f0232e4c88e8bccce88e0288372edba"
 
@@ -390,6 +394,10 @@ file = "world/datapacks/uitstelgedrag/data/minecraft/recipe/dark_oak_trapdoor.js
 hash = "4923b278bfc6edbbd089c5fbac6f092ff5cc43d38690db77f6560098ae63025f"
 
 [[files]]
+file = "world/datapacks/uitstelgedrag/data/minecraft/recipe/detector_rail.json"
+hash = "f6e8844ff02a8dd73da830fd49b420bfb9819e003d2974ab6b7e0da13e8d597a"
+
+[[files]]
 file = "world/datapacks/uitstelgedrag/data/minecraft/recipe/iron_trapdoor.json"
 hash = "97cb16fee70e414971323c4bf1fdfd8b17b94170ffdee5457ff17e6c4e6c20a7"
 
@@ -408,6 +416,14 @@ hash = "4e7f422873e3b47a67da79d1ce7983904cb7ec3936ed0e3be23940cf01e52acb"
 [[files]]
 file = "world/datapacks/uitstelgedrag/data/minecraft/recipe/pale_oak_trapdoor.json"
 hash = "23f416dd4f5469358f54e2510857428f2792d7ac0cf6febae42111dc317534ae"
+
+[[files]]
+file = "world/datapacks/uitstelgedrag/data/minecraft/recipe/powered_rail.json"
+hash = "74c903b81bf7ff2331d7f009cd7e9032071c310acbdfb208715687151df52549"
+
+[[files]]
+file = "world/datapacks/uitstelgedrag/data/minecraft/recipe/rail.json"
+hash = "d02dd5b5736e2157a878121e8e0c225fc90c278bd9632f95c8a3897bd04d7c35"
 
 [[files]]
 file = "world/datapacks/uitstelgedrag/data/minecraft/recipe/spruce_trapdoor.json"
@@ -487,4 +503,4 @@ hash = "5b1f4332e7c00aaecdeb3c7472443484a762a96ff699fa0f1a7f3c0ada052c22"
 
 [[files]]
 file = "world/datapacks/uitstelgedrag/pack.mcmeta"
-hash = "559696633c2d621313babb8b6dc9c488b9f2075e3c305a641723fd1ac9a9d5fb"
+hash = "77c300babc5689c8b0f8da0cf19053fe3bf8424bc2615ddb6a11b313d5187fd6"

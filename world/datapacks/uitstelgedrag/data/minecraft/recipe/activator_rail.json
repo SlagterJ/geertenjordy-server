@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "R": "minecraft:redstone_torch",
+    "S": "minecraft:stick",
+    "I": "minecraft:iron_ingot"
+  },
+  "pattern": ["ISI", "IRI", "ISI"],
+  "result": {
+    "count": 16,
+    "id": "minecraft:activator_rail"
+  }
+}
